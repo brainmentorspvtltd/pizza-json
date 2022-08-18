@@ -1,0 +1,7 @@
+{
+"category":[
+  {"name":"Pizza", "url":"/pizza"},
+  {"name":"Burger", "url":"/burger"},
+  {"name":"Drinks", "url":"/drinks"}
+]
+}
